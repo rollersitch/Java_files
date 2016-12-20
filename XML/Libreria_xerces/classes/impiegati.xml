@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<impiegati xmlns:xsi="http://www.w3.org/2010/XMLSchema-instance"
+	xsi:noNameSpaceSchemaLocation="impiegati.xsd">
+	
+	<impiegato matricola="311">
+		<nome>Mario</nome>
+		<cognome>Rossi</cognome>
+		<telefono>0678999</telefono>
+		<parttime />
+		
+	</impiegato>
+	
+	<impiegato matricola="312">
+		<nome>Elisa</nome>
+		<cognome>Bianchi</cognome>
+		<telefono>0689889</telefono>
+	</impiegato>
+	
+	
+	
+	<impiegato matricola="313">
+		<nome>Antonio</nome>
+		<cognome>Verdi</cognome>
+		<parttime />
+		
+	</impiegato>
+	
+</impiegati>
+	

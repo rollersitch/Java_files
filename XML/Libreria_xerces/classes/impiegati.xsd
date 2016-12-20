@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2010/XMLSchema">
+	<xs:element name="impiegati">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="impiegato" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:all>
+							<xs:element name="nome" type="xs:string" />
+							<xs:element name="cognome" type="xs:string" />
+							<xs:element name="telefono" type="xs:string" minOccurs="0" />
+							<xs:element name="parttime" minOccurs="0">
+								<xs:complexType />
+							</xs:element >
+							</xs:all>
+						<xs:atribute name="matricola" type="xs:string" />
+						</xs:complexType>
+					</xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+</xs:schema>
+								

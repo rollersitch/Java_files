@@ -1,0 +1,35 @@
+/*
+ *      README
+ *
+ *      Copyright 2010 daniele <dany88vai@gmail.com>
+ *
+ *      This program is free software; you can redistribute it and/or modify
+ *      it under the terms of the GNU General Public License as published by
+ *      the Free Software Foundation; either version 2 of the License, or
+ *      (at your option) any later version.
+ *
+ *      This program is distributed in the hope that it will be useful,
+ *      but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *      GNU General Public License for more details.
+ *
+ *      You should have received a copy of the GNU General Public License
+ *      along with this program; if not, write to the Free Software
+ *      Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+ *      MA 02110-1301, USA.
+ */
+
+Per avviare il programma basta usare lo script "startup.sh" presente nella cartella principale dell'applicazione.
+Assicurarsi che lo script abbia i permessi di esecuzione.
+Il programma non necessita l'autenticazione come root, l'installazione su disco fisso, nè particolari librerie.
+Unico requisito, una JRE (JavaVirtualMachine) ufficiale Sun o una JRE OpenJDK almeno alla versione 1.5 (talvolta indicata semplicemente come 5).
+
+Il programma durante il calcolo emette output sullo stdout, quindi probabilmente sul terminale da cui viene eseguito lo script. Ciò proviene da
+attività di debug, ma ho deciso di lasciarlo per comodità dei tester. Conseguentemente tutte le risposte e le eccezioni sollevate dalla JRE sono
+visualizzate nello stdout. Il programma è ancora in versione pre-alpha, non tutte le eccezioni sono gestite, quindi un errore di qualsiasi tipo
+potrebbe provocare la chiusura dello stesso.
+
+
+
+-RollerBitch-
+

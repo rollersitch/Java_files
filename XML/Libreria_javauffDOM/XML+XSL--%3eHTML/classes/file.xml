@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+
+<?xml-stylesheet type="text/xsl" href="App01_con_XSL.xsl" ?>
+
+<Poeta>
+	<Persona>
+		<Nome>Giuseppe</Nome>
+		<Cognome>Verdi</Cognome>
+		<Eta>189</Eta>
+	</Persona>
+</Poeta>

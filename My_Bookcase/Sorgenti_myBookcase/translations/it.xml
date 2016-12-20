@@ -1,0 +1,25 @@
+<xml>
+<file>MyBookcase 1.0.0 translation file</file>
+<dictionary>
+	<el key="MyBookcase">La mia libreria</el>
+	
+	<el key="Add new book">Aggiungi libro</el>
+	<el key="Edit book">Edita libro</el>
+	<el key="Remove book">Elimina libro</el>
+	<el key="Order list by: ">Ordina lista: </el>
+	<el key="Search book">Cerca libro</el>
+	
+	<el key="Book title">Titolo del libro</el>
+	<el key="Author name">Nome dell'autore</el>
+	<el key="Type">Genere</el>
+	<el key="Media Type">Supporto</el>
+	<el key="Publisher">Editore</el>
+	<el key="Position">Posizione</el>
+	<el key="Insert">Inserisci</el>
+
+	<el key="Book">Libro</el>
+	<el key="Comic">Fumetto</el>
+	<el key="Dvd">Dvd</el>
+	<el key="CdAudio">Cdrom Audio</el>
+</dictionary>
+</xml>

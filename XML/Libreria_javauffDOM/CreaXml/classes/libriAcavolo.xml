@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<libri><libro isbn="1234"><titolo>la divina commedia</titolo><autore>dante alighieri</autore><edizione><editore>garzanti</editore><anno>1980</anno></edizione><prezzo>124</prezzo></libro><libro isbn="345"><titolo>il coccige</titolo><autore>bauro</autore><edizione><editore>sertop</editore><anno>12300</anno></edizione><prezzo>1</prezzo></libro></libri>
